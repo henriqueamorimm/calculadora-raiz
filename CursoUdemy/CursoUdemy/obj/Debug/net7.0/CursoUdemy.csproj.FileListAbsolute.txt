@@ -1,0 +1,15 @@
+D:\ProjetosC#\CursoUdemy\CursoUdemy\bin\Debug\net7.0\CursoUdemy.exe
+D:\ProjetosC#\CursoUdemy\CursoUdemy\bin\Debug\net7.0\CursoUdemy.deps.json
+D:\ProjetosC#\CursoUdemy\CursoUdemy\bin\Debug\net7.0\CursoUdemy.runtimeconfig.json
+D:\ProjetosC#\CursoUdemy\CursoUdemy\bin\Debug\net7.0\CursoUdemy.dll
+D:\ProjetosC#\CursoUdemy\CursoUdemy\bin\Debug\net7.0\CursoUdemy.pdb
+D:\ProjetosC#\CursoUdemy\CursoUdemy\obj\Debug\net7.0\CursoUdemy.csproj.AssemblyReference.cache
+D:\ProjetosC#\CursoUdemy\CursoUdemy\obj\Debug\net7.0\CursoUdemy.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\CursoUdemy\CursoUdemy\obj\Debug\net7.0\CursoUdemy.AssemblyInfoInputs.cache
+D:\ProjetosC#\CursoUdemy\CursoUdemy\obj\Debug\net7.0\CursoUdemy.AssemblyInfo.cs
+D:\ProjetosC#\CursoUdemy\CursoUdemy\obj\Debug\net7.0\CursoUdemy.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\CursoUdemy\CursoUdemy\obj\Debug\net7.0\CursoUdemy.dll
+D:\ProjetosC#\CursoUdemy\CursoUdemy\obj\Debug\net7.0\refint\CursoUdemy.dll
+D:\ProjetosC#\CursoUdemy\CursoUdemy\obj\Debug\net7.0\CursoUdemy.pdb
+D:\ProjetosC#\CursoUdemy\CursoUdemy\obj\Debug\net7.0\CursoUdemy.genruntimeconfig.cache
+D:\ProjetosC#\CursoUdemy\CursoUdemy\obj\Debug\net7.0\ref\CursoUdemy.dll
